@@ -1,2 +1,2 @@
-# Optimizing-Workforce-Efficiency-Analysing-and-Reducing-Employee-Absenteeism-at-Echo-Media
+# Optimising-Workforce-Efficiency-Analysing-and-Reducing-Employee-Absenteeism-at-Echo-Media
 This presents my analysis of absenteeism trends across departments, job roles, demographics, and termination reasons. By identifying the correlations with engagement and performance, I provided data-driven insights for Echo Media that enabled the organisation to implement targeted strategies, reducing absenteeism and improving workplace efficiency.
